@@ -65,3 +65,17 @@ notebooks/
 - Matplotlib, Seaborn
 - Jupyter Notebooks
 - Google Colab
+
+## 💡 Purpose
+
+This project was developed to explore how artificial intelligence techniques can support early disease detection using both structured (tabular) and unstructured (image) data. It aims to apply multiple ML approaches—classical classification models, CNNs, and VAEs—to real-world healthcare scenarios, with a focus on practical implementation, model evaluation, and data-driven insights.
+
+Key AI skills I was able to learn during this project:
+- Data preprocessing and feature selection
+- Supervised learning (binary and multi-class classification)
+- Deep learning for image classification
+- Generative models for image reconstruction
+- Model performance evaluation and interpretation
+
+Ultimately, this project showcases how data and AI can work together to support medical decision-making in a responsible, explainable, and meaningful way.
+

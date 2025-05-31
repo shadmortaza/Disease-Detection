@@ -7,8 +7,8 @@ This project explores how artificial intelligence can support early diagnosis of
 ## 🔍 Project Overview
 
 Datasets:
-1. **Tabular data (Dataset1.csv):** Contains patient health records including age, BMI, smoking status, etc.
-2. **X-ray images (Dataset 2):** Used for detecting pneumonia through image classification.
+1. **Tabular data :** Contains patient health records including age, BMI, smoking status, etc.
+2. **X-ray images :** Used for detecting pneumonia through image classification.
 
 Our models include:
 - Binary & multi-class classification (tabular)
